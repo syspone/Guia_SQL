@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#121722"/><stop offset="1" stop-color="#090B10"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.5"><stop offset="0" stop-color="#F2B872" stop-opacity="0.10"/><stop offset="1" stop-color="#F2B872" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/><rect width="1080" height="1080" fill="url(#glow)"/>
+  <rect width="1080" height="84" fill="#161B26"/><rect y="84" width="1080" height="3" fill="#F2B872"/>
+  <text x="60" y="55" font-family="Adwaita Sans" font-weight="800" font-size="32" letter-spacing="8" fill="#F2B872">SYSPONE</text>
+  <text x="1020" y="53" text-anchor="end" font-family="Adwaita Sans" font-size="22" letter-spacing="3" fill="#9AA3B2">GUIA SQL · AULA 02 · 2/2</text>
+  <text x="540" y="205" text-anchor="middle" font-family="Fira Code" font-weight="700" font-size="96" fill="#F2B872">SELECT *</text>
+  <text x="540" y="260" text-anchor="middle" font-family="Adwaita Sans" font-size="34" fill="#E8ECF2">e lá estão eles: a tabela preenchida!</text>
+  <rect x="70" y="295" width="940" height="590" rx="22" fill="#0D1119" stroke="#2A3242" stroke-width="2"/>
+  <circle cx="106" cy="325" r="8" fill="#FF6B6B"/><circle cx="132" cy="325" r="8" fill="#F2B872"/><circle cx="158" cy="325" r="8" fill="#7BD88F"/>
+  <text x="974" y="332" text-anchor="end" font-family="Fira Code" font-size="18" fill="#6B7487">SELECT * FROM dbo.Usuarios</text>
+  <rect x="82" y="350" width="916" height="50" fill="#1B2130"/>
+  <g font-family="Fira Code" font-size="20" font-weight="600" fill="#F2B872"><text x="128" y="383" text-anchor="end">Id</text><text x="147" y="383">Nome</text><text x="347" y="383">Email</text><text x="667" y="383">Cidade</text><text x="855" y="383">Nascimento</text></g>
+  <g font-family="Fira Code" font-size="20" fill="#D5DBE5">
+    <text x="128" y="430" text-anchor="end" fill="#9AA3B2">1</text><text x="147" y="430">Ana Souza</text><text x="347" y="430" fill="#8FD3A6">ana.souza@email.com</text><text x="667" y="430">São Paulo</text><text x="855" y="430">1995-03-12</text>
+    <rect x="82" y="446" width="916" height="46" fill="#121823"/>
+    <text x="128" y="476" text-anchor="end" fill="#9AA3B2">2</text><text x="147" y="476">Bruno Lima</text><text x="347" y="476" fill="#8FD3A6">bruno.lima@email.com</text><text x="667" y="476">Rio de Janeiro</text><text x="855" y="476">1988-07-25</text>
+    <text x="128" y="522" text-anchor="end" fill="#9AA3B2">3</text><text x="147" y="522">Carla Mendes</text><text x="347" y="522" fill="#8FD3A6">carla.mendes@email.com</text><text x="667" y="522">Belo Horizonte</text><text x="855" y="522">2000-11-02</text>
+    <rect x="82" y="538" width="916" height="46" fill="#121823"/>
+    <text x="128" y="568" text-anchor="end" fill="#9AA3B2">4</text><text x="147" y="568">Diego Ferreira</text><text x="347" y="568" fill="#8FD3A6">diego.ferreira@email.com</text><text x="667" y="568">Curitiba</text><text x="855" y="568">1992-01-30</text>
+    <text x="128" y="614" text-anchor="end" fill="#9AA3B2">5</text><text x="147" y="614">Elisa Rocha</text><text x="347" y="614" fill="#8FD3A6">elisa.rocha@email.com</text><text x="667" y="614">Porto Alegre</text><text x="855" y="614">1998-06-18</text>
+    <rect x="82" y="630" width="916" height="46" fill="#121823"/>
+    <text x="128" y="660" text-anchor="end" fill="#9AA3B2">6</text><text x="147" y="660">Felipe Andrade</text><text x="347" y="660" fill="#8FD3A6">felipe.andrade@email.com</text><text x="667" y="660">Salvador</text><text x="855" y="660">1985-09-09</text>
+    <text x="128" y="706" text-anchor="end" fill="#9AA3B2">7</text><text x="147" y="706">Gabriela Costa</text><text x="347" y="706" fill="#8FD3A6">gabriela.costa@email.com</text><text x="667" y="706">Recife</text><text x="855" y="706">2001-04-22</text>
+    <rect x="82" y="722" width="916" height="46" fill="#121823"/>
+    <text x="128" y="752" text-anchor="end" fill="#9AA3B2">8</text><text x="147" y="752">Henrique Alves</text><text x="347" y="752" fill="#8FD3A6">henrique.alves@email.com</text><text x="667" y="752">Fortaleza</text><text x="855" y="752">1990-12-05</text>
+    <text x="128" y="798" text-anchor="end" fill="#9AA3B2">9</text><text x="147" y="798">Isabela Martins</text><text x="347" y="798" fill="#8FD3A6">isabela.martins@email.com</text><text x="667" y="798">Florianópolis</text><text x="855" y="798">1997-08-14</text>
+    <rect x="82" y="814" width="916" height="46" fill="#121823"/>
+    <rect x="657" y="819" width="104" height="36" rx="8" fill="none" stroke="#F2B872" stroke-width="2"/>
+    <text x="128" y="844" text-anchor="end" fill="#9AA3B2">10</text><text x="147" y="844">João Pereira</text><text x="347" y="844" fill="#8FD3A6">joao.pereira@email.com</text><text x="667" y="844" fill="#F2B872" font-style="italic">&lt;null&gt;</text><text x="855" y="844">1993-02-27</text>
+  </g>
+  <line x1="137" y1="350" x2="137" y2="860" stroke="#2A3242" stroke-width="1.5"/>
+  <line x1="335" y1="350" x2="335" y2="860" stroke="#2A3242" stroke-width="1.5"/>
+  <line x1="655" y1="350" x2="655" y2="860" stroke="#2A3242" stroke-width="1.5"/>
+  <line x1="843" y1="350" x2="843" y2="860" stroke="#2A3242" stroke-width="1.5"/>
+  <text x="974" y="890" text-anchor="end" font-family="Fira Code" font-size="19" fill="#7BD88F">✔ 10 linhas · 352 ms</text>
+  <rect x="70" y="910" width="940" height="100" rx="20" fill="#161B26" stroke="#F2B872" stroke-opacity="0.45" stroke-width="2"/>
+  <text x="540" y="950" text-anchor="middle" font-family="Adwaita Sans" font-size="27" fill="#E8ECF2">Repare: o João ficou <tspan fill="#F2B872" font-weight="700">sem cidade</tspan> (NULL).</text>
+  <text x="540" y="988" text-anchor="middle" font-family="Adwaita Sans" font-size="25" fill="#9AA3B2">NULL é diferente de texto vazio ('')? Responda nos comentários!</text>
+  <text x="540" y="1050" text-anchor="middle" font-family="Adwaita Sans" font-size="22" letter-spacing="2" fill="#6B7487">@cristian_souzaac · aprendendo SQL na prática</text>
+</svg>

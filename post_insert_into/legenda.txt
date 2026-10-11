@@ -1,0 +1,16 @@
+Sua tabela tá vazia? Um comando resolve! 🚀
+
+No GUIA SQL de hoje, a tabela Usuarios ganhou vida com o INSERT INTO: 10 usuários cadastrados de uma vez só, com nome, e-mail, cidade e data de nascimento. 💾✨
+
+👉 Arrasta pro lado e veja o resultado do SELECT com a tabela preenchida!
+
+3 curiosidades pra você levar:
+🕰️ O SQL nasceu na IBM em 1974, criado por Donald Chamberlin e Raymond Boyce, com o nome SEQUEL.
+📦 No SQL Server, um único INSERT ... VALUES aceita até 1.000 linhas (recurso que chegou na versão 2008).
+🔤 Sabe aquele N antes do texto, como em N'São Paulo'? Ele avisa que o texto é Unicode e garante que os acentos de "Florianópolis" fiquem certinhos.
+
+👀 Olha o desafio: na consulta, a cidade do João Pereira veio como NULL. Você sabe a diferença entre NULL e um texto vazio ('')? Conta aqui nos comentários! 👇
+
+📸 Arte: SYSPONE, feita a partir do meu projeto no DataGrip.
+
+#SQL #SQLServer #BancoDeDados #DataGrip #Programação #AprendendoSQL #Tecnologia #DesenvolvimentoDeSoftware #CiênciaDeDados #DivulgaçãoCientífica #Curiosidades #SYSPONE
