@@ -1,0 +1,11 @@
+# IDEs JetBrains (DataGrip, PyCharm...): configurações locais e conexões
+.idea/
+*.iml
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente e credenciais
+.env
+*.local
